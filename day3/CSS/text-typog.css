@@ -1,0 +1,41 @@
+.font-example {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.formatting-example .bold {
+    font-weight: bold;
+}
+
+.formatting-example .italic {
+    font-style: italic;
+}
+
+.formatting-example .underline {
+    text-decoration: underline;
+}
+
+.alignment-example {
+    text-align: center;
+}
+
+.decoration-example {
+    text-decoration: line-through;
+}
+
+.line-spacing-example {
+    letter-spacing: 20px;
+    line-height: 3;
+}
+
+.shadow-example {
+    text-shadow: 10px 20px 2px rgba(0,0,0 , 0.5)
+}
+
+.web-safe-font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.google-font {
+    font-family: "Roboto", sans-serif;
+}
